@@ -1,0 +1,8 @@
+body { font-family: Arial, sans-serif; background:#f7f7fb; margin:0; }
+.container { max-width: 840px; margin: 0 auto; padding: 24px; }
+section { background:white; padding:16px; border-radius:8px; margin-bottom:14px; }
+form { display:flex; gap:8px; flex-wrap:wrap; }
+input, textarea, select, button { padding:8px; }
+#feedList { list-style:none; padding:0; }
+#feedList li { padding:8px; border-bottom:1px solid #ececec; }
+#log { background:#101522; color:#c7d2fe; padding:12px; border-radius:8px; }
